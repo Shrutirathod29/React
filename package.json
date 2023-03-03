@@ -1,0 +1,11 @@
+{
+  "name": "rnew",
+  "version": "1.0.0",
+  "description": "This is a React study course.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shruti kumari",
+  "license": "ISC"
+}
